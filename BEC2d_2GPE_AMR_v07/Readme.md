@@ -1,5 +1,5 @@
 # 2DGPE AMR
-Gross-Pitajevski equations sover in 2D through the Crank-Nicholson method with predictor-corrector. Realized in Fortran 95. It solves the system of two-coupled Gross-Pitejevskii equations describing the behaviour of two interacting Bose-Einstein Condensates (BEC) in two dimensions with an Automatic Mesh Refinement (AMR).
+Gross-Pitajevskii equations sover in 2D through the Crank-Nicholson method with predictor-corrector. Realized in Fortran 95. It solves the system of two-coupled Gross-Pitajevskii equations describing the temporal dynamics of two interacting Bose-Einstein Condensates (BEC) in two dimensions with an Automatic Mesh Refinement (AMR).
 
 This version of the code is capable of handling rotating reference frame, compute expectation of value of Energy, Norm, Momentum and Angular Momentum as well as handle different initial condition like:gaussian wave packet, gaussian vortices, thomas-fermi approximation...etc
 
