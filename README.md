@@ -1,5 +1,5 @@
 # 2DGPE
-Gross-Pitajevskii equations solver in 2D through the Crank-Nicholson method with predictor-corrector. Realized in Fortran 95.
+Gross-Pitajevskii equations solver in 2D through the Crank-Nicolson method with predictor-corrector. Realized in Fortran 95.
 It solves the system of two-coupled Gross-Pitajevskii equations describing the temporal dynamics of two interacting Bose-Einstein Condensates (BEC) in two dimensions.
 
 This folder contains different version of the solver featuring the computations of different observables and the possibility to handle different initial conditions.
